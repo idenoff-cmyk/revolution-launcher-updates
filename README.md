@@ -10,9 +10,9 @@
 
 ## Запуск
 
-1. Розпакуй Windows ZIP повністю.
-2. Запусти `Revolution.exe`. Збережи поруч `_internal`, `modpack` та `community.json`.
-3. Лаунчер сам встановить і перевірить **97 модів із комплекту** в окремій папці.
+1. Завантаж [Windows-комплект](https://github.com/idenoff-cmyk/revolution-launcher-updates/releases/latest/download/Revolution-Windows-online-x64.zip) і розпакуй ZIP повністю.
+2. Запусти `Revolution.exe`. Збережи поруч `_internal` та `community.json`.
+3. Лаунчер сам завантажить і перевірить **97 модів із підписаного каналу** в окремій папці. Повний комплект `Revolution-Windows-x64.zip` також містить локальну папку `modpack`; збережи її поруч із EXE, якщо користуєшся цим комплектом.
 4. Обери профіль гравця й натисни **Почати гру**. Java, Minecraft та NeoForge завантажуються під час першої підготовки.
 
 Python, Node.js та окремий Qt користувачу не потрібні. Потрібен інтернет для підготовки гри та кілька гігабайтів вільного місця. Дані: `%LOCALAPPDATA%\RevolutionLauncher`.
