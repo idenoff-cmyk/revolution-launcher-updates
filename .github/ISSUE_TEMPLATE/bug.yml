@@ -1,0 +1,21 @@
+name: Помилка лаунчера
+description: Повідомити про збій без приватних даних
+title: '[Помилка] '
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Що сталося та як повторити
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Версія лаунчера та Windows
+    validations:
+      required: true
+  - type: textarea
+    id: report
+    attributes:
+      label: Очищений звіт Revolution Assist
+      description: Перевір текст. Не додавай токени, ключі, email або особисті дані.

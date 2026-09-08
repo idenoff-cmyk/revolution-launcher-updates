@@ -1,0 +1,28 @@
+name: Зміна модпаку
+description: Запропонувати мод або залежність після обговорення в Discord
+title: '[Модпак] '
+body:
+  - type: textarea
+    id: decision
+    attributes:
+      label: Рішення спільноти
+      description: Посилання на обговорення у Discord та що погоджено.
+    validations:
+      required: true
+  - type: input
+    id: mod
+    attributes:
+      label: Мод і точна версія
+      description: Посилання Modrinth / CurseForge, version ID або назва файлу.
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Залежності та сумісність
+      description: Minecraft 1.21.1 / NeoForge 21.1.250; required dependencies, client/server, конфігурації.
+  - type: textarea
+    id: validation
+    attributes:
+      label: Перевірка кандидата
+      description: Аудит, результат запуску на тестовому сервері, зміни рецептів або світу.

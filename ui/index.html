@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: blob:; script-src 'self' qrc:; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Revolution Launcher</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="assets/lucide.min.js" defer></script>
+  <script src="assistant.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="qrc:///qtwebchannel/qwebchannel.js" defer></script>
+  <script src="bridge.js" defer></script>
+</head>
+<body>
+  <div class="ambient"></div>
+  <div class="titlebar"><div class="pywebview-drag-region">REVOLUTION <span>LAUNCHER</span></div><div class="window-actions"><button data-action="minimize" aria-label="Згорнути"><i data-lucide="minus"></i></button><button data-action="maximize" aria-label="Повний екран"><i data-lucide="square"></i></button><button class="window-close" data-action="close" aria-label="Закрити"><i data-lucide="x"></i></button></div></div>
+  <aside class="sidebar">
+    <a class="brand" href="#home" aria-label="Revolution — головна"><img src="assets/mark.svg" alt=""><div>REVOLUTION<small>YOUR NEXT CHAPTER</small></div></a>
+    <div class="nav-label">ТВІЙ ПРОСТІР</div>
+    <nav aria-label="Головна навігація">
+      <button class="nav-item active" data-page="home"><i data-lucide="house"></i>Головна<span class="nav-dot"></span></button>
+      <button class="nav-item" data-page="instances"><i data-lucide="layers-2"></i>Мої збірки<span class="nav-count" id="instance-count">1</span></button>
+      <button class="nav-item" data-page="mods"><i data-lucide="blocks"></i>Моди</button>
+      <button class="nav-item" data-page="downloads"><i data-lucide="download"></i>Завантаження<span class="activity-dot" id="activity-dot" hidden></span></button>
+    </nav>
+    <div class="nav-label second">СПІЛЬНОТА</div>
+    <nav aria-label="Спільнота">
+      <button class="nav-item" data-page="news"><i data-lucide="newspaper"></i>Новини</button>
+      <button class="nav-item" data-link="discordUrl"><i data-lucide="messages-square"></i>Наш Discord<i class="external" data-lucide="arrow-up-right"></i></button>
+      <button class="nav-item" data-link="mapUrl"><i data-lucide="map"></i>Карта світу<i class="external" data-lucide="arrow-up-right"></i></button>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="community-note"><span class="tiny-star">✳</span><strong>Світ кращий разом.</strong><p>Твори. Досліджуй. Знаходь своїх.</p><button data-link="discordUrl">До спільноти <i data-lucide="arrow-up-right"></i></button></div>
+      <button class="nav-item" data-page="logs"><i data-lucide="terminal"></i>Журнал</button>
+      <button class="nav-item" data-page="settings"><i data-lucide="settings-2"></i>Налаштування</button>
+      <button class="account-button" data-modal="account"><span class="avatar">R</span><span><strong id="sidebar-name">Revolution</strong><small id="account-kind">Локальний профіль</small></span><i data-lucide="chevrons-up-down"></i></button>
+    </div>
+  </aside>
+  <main>
+    <header class="page-header"><div><div class="eyebrow" id="page-eyebrow">РАДІ БАЧИТИ ТЕБЕ ЗНОВУ</div><h1 id="page-title">Твоя наступна пригода.</h1></div><div class="header-right"><span class="edition">JAVA EDITION</span><button class="icon-button" data-page="downloads" title="Активність"><i data-lucide="bell"></i><span id="notice-dot"></span></button><button class="avatar small" data-modal="account" aria-label="Профіль користувача">R</button></div></header>
+    <div id="page-content"></div>
+    <footer class="app-footer"><span><span class="dot coral"></span> Revolution Launcher <b>v1.1.0</b></span><span>Зроблено для своїх <span class="footer-heart">♡</span><span class="divider">|</span><span id="bridge-status">Підключення…</span></span></footer>
+  </main>
+  <div class="toast-container" id="toasts" aria-live="polite"></div>
+  <dialog id="modal"><div id="modal-content"></div></dialog>
+</body>
+</html>

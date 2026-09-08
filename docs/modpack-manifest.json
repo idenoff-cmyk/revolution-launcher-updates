@@ -1,0 +1,883 @@
+{
+  "schemaVersion": 1,
+  "name": "Revolution Modded",
+  "version": "2026-09-07",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.250",
+  "files": [
+    {
+      "path": "mods/[Neoforge]ctov-3.6.3.jar",
+      "name": "ChoiceTheorem's Overhauled Village",
+      "sha256": "4815b19b83541f09cba556e222612bc5ddcc31f7c4ba2198f4b4d6376cca8b2e",
+      "size": 7139609,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "name": "Accessories",
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+      "size": 1078697,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ApothicAttributes-1.21.1-2.10.1.jar",
+      "name": "Apothic Attributes",
+      "sha256": "484d52a58ba351d8e41775b351dad80f39a5bb4ed415bca67537a7f27de901ba",
+      "size": 323264,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ApothicEnchanting-1.21.1-1.6.2.jar",
+      "name": "Apothic Enchanting",
+      "sha256": "652406bc2e4c2d8488c93d35d38202390897e0ec6b4bc60b4813ce2fb6ad69f6",
+      "size": 5415666,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/architectury-13.0.11-neoforge.jar",
+      "name": "Architectury",
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
+      "size": 584734,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/badpackets-neo-0.8.2.jar",
+      "name": "Bad Packets",
+      "sha256": "6e97bf8c2a66df484e8c100a1fc1b615b8beac70ec44f4c3bc07bb672dcd54c6",
+      "size": 54641,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/baguettelib-1.21.1-NeoForge-2.0.6.jar",
+      "name": "BaguetteLib",
+      "sha256": "b063969bb7dcd69ce758f0a7446b87702fff662f8be2e55913ac76fcdb57ef7f",
+      "size": 81947,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "name": "Better Combat",
+      "sha256": "0446e9faa98b764ba010ac31e337d14ac96bbb2fbfeff9b599e1efd510dfde5a",
+      "size": 1045389,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/biolith-neoforge-3.0.14.jar",
+      "name": "Biolith",
+      "sha256": "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9",
+      "size": 218062,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "name": "Biomes O' Plenty",
+      "sha256": "99e4edeacfd7c9b0992144988df4f190dcb7955a7cc1e7323715505b3579bc9b",
+      "size": 22338157,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/boss_companions-1.0.1-neoforge-1.21.1.jar",
+      "name": "Boss Companions!",
+      "sha256": "b6cd6a63e98d161e0988952bfec1db2fbdd836103ff67a33b7ab8596e3f9c959",
+      "size": 500351,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/brutalbosses-1.21.1-8.6.jar",
+      "name": "brutalbosses mod",
+      "sha256": "b401d41cb2419f519df4ad65c069578f424b1ea797fbfe28d7b48b868708d75a",
+      "size": 199019,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "name": "Cloth Config v15 API",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "name": "Clumps",
+      "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "size": 18382,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/combat_roll-neoforge-2.0.6+1.21.1.jar",
+      "name": "Combat Roll",
+      "sha256": "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17",
+      "size": 193381,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "name": "Create: Copycats+",
+      "sha256": "f0655f3afac3829d3cda7782f2c64e935fdd7667dda137c108dc9055fc1e5c71",
+      "size": 1799269,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/cosmeticarmorreworkedforked-neoforge-1.21.1-0.0.4.jar",
+      "name": "CosmeticArmorReworkedForked",
+      "sha256": "770752f39e4e67d8c116b389e60db5b1a496107f9be8386e5eb83d05a817e207",
+      "size": 99299,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "name": "Create",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19123767,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "name": "Create Aeronautics",
+      "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
+      "size": 33123131,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+      "name": "Create Aeronautics: FTB Chunks",
+      "sha256": "e9faa73f056b964c2399b8badb7e8c7664a1db754dcfd16e02e1eec4136adcdd",
+      "size": 154102,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/cupboard-1.21.1-4.1.jar",
+      "name": "Cupboard mod",
+      "sha256": "7d3f1bcca3acf2e7b1f3d359d5e0691cbb5a0f95869064752e7612b2d13e5b9e",
+      "size": 30206,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "name": "Curios API",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/DoggyTalentsNext-1.21.1-1.19.1.jar",
+      "name": "Doggy Talents Next",
+      "sha256": "38c8f223ecaca30297677ff828013ea27350b85517020c6bab2d16d71eb26ac0",
+      "size": 11275139,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "name": "When Dungeons Arise",
+      "sha256": "7eee1eca7e3b2c6c1bede055934f391ae2e8349ffe33e106f451176d2cfcf0e4",
+      "size": 11842679,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ecologics-1.21.1-2.3.7.jar",
+      "name": "Ecologics",
+      "sha256": "1fb3ce04b425018154a63d8719bfcf1418734ea7e36b71bd10e7aa0c773cbeae",
+      "size": 1909490,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/FallingTree-1.21.1-1.21.1.11.jar",
+      "name": "FallingTree",
+      "sha256": "70ee147602d2239e7a093e166fdf0c0abcef959d5d457c0f8f3669ef9b483dc4",
+      "size": 496356,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "name": "Farmer's Delight",
+      "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
+      "size": 3160490,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/fdbosses-3.2-1.21.1.jar",
+      "name": "Qliphoth Awakening",
+      "sha256": "b388d0e1c4987dff41eadac5e236ebc16d41b18bb06b9bbcbf7c40a53fdef78c",
+      "size": 25979434,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.21.1.jar",
+      "name": "FDLib",
+      "sha256": "84c2ba547695abbe488533681714ee53bc4412c6983f305d2d9deaa3ada0a710",
+      "size": 973335,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "name": "Ferrite Core",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ftb-chunks-neoforge-2101.1.22.jar",
+      "name": "FTB Chunks",
+      "sha256": "4ba1b3352184fa7f6e2aa4bca76edd074867697d62344dfa50dcccdb4dab5217",
+      "size": 655807,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.35.jar",
+      "name": "FTB Library",
+      "sha256": "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d",
+      "size": 1439018,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.11.jar",
+      "name": "FTB Teams",
+      "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655",
+      "size": 308236,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "name": "Fzzy Config",
+      "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "size": 2369895,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "name": "GeckoLib 4",
+      "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
+      "size": 630584,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "name": "GlitchCore",
+      "sha256": "d9ea421e7449a35cf3adc41c9f740156342b7b17a08b1be843660608af7b60f9",
+      "size": 90717,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/gml-6.0.2.jar",
+      "name": "GroovyModLoader",
+      "sha256": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
+      "size": 10981280,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "name": "Gravestone Mod",
+      "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0",
+      "size": 322082,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar",
+      "name": "Gravestone Curios Compatibility",
+      "sha256": "d8869fb374a754dcbf61d99d3df20d25000f9079aa16f0dec3f78f30cf823285",
+      "size": 17532,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/hapi-neoforge-1.21.1-1.0.0.jar",
+      "name": "Hybrid API",
+      "sha256": "d0ebbd5baf1600c3dc17350edd71326a81d1362ef99090b684f4898648fc284a",
+      "size": 691178,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/hybrid_aquatic-neoforge-1.21.1-1.7.0.jar",
+      "name": "Hybrid Aquatic",
+      "sha256": "e16d32dd3cbb39356916801632df7ae31c86e84cc0324f4044fbe85d5d669e6e",
+      "size": 7369359,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/Incendium_1.21.x_v5.4.4.jar",
+      "name": "Incendium",
+      "sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4",
+      "size": 4267528,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/invtweaks-1.21.1-1.3.2.jar",
+      "name": "Inventory Tweaks Refoxed",
+      "sha256": "ceb5b20a43ca1c5bd707f60bb5d5fa61099c7a7ba50b19f6bddfe93f1ca0073c",
+      "size": 77127,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/irons_lib-1.21.1-2.1.0.jar",
+      "name": "Iron's Lib",
+      "sha256": "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72",
+      "size": 406284,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "name": "Iron's Spells 'n Spellbooks",
+      "sha256": "13d644474ddba4f8478b4ce68294687fd509c994b3f344a224142b102dbe6f73",
+      "size": 13890046,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.51.0.417.jar",
+      "name": "Just Enough Items",
+      "sha256": "effd91a0b8b469fe3d7ed0bb28b55fed83d69f4bf6efcd3019740fe3cf8c5916",
+      "size": 1804772,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "name": "kotlinforforge-5.12.0-all",
+      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+      "size": 7279276,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "name": "L_Ender's Cataclysm 1.21.1",
+      "sha256": "23921a268acc8b695291f12e89c5e4c261ee5f59a3b6d763793461efb3e7e1d6",
+      "size": 73375661,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/lionfishapi-3.1.jar",
+      "name": "lionfishapi",
+      "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6",
+      "size": 91596,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar",
+      "name": "Lithostitched",
+      "sha256": "f9bed6228565d69166ac85edbe6159e28674a687562964e5424a8c8a477d20c0",
+      "size": 954028,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/mermod-neoforge-3.3.2+1.21.1.jar",
+      "name": "Mermod",
+      "sha256": "fc0943389ec144a9df7e393989bf4262ea749ebd0bdc823f3b8d40ea91d0856f",
+      "size": 159815,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "name": "ModernFix",
+      "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe",
+      "size": 604333,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsEndStructures-1.21-2.0.3.jar",
+      "name": "MoogsEndStructures",
+      "sha256": "6dd403739a473c38aa2a6660dc4891be1525743f5e7be0cf4c25b93b4491b4ea",
+      "size": 1210283,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsMissingVillages-1.21-2.1.2.jar",
+      "name": "MoogsMissingVillages",
+      "sha256": "971966a8ad9721b9a8393d362e5f323bc63e61d9596f34183d6186b3b4c2b610",
+      "size": 599142,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsNetherStructures-1.21-3.0.0.jar",
+      "name": "MoogsNetherStructures",
+      "sha256": "024bce3098fcba6b7eb55f3526708cbf9dfdf3b074da057ce72b896a2567a6af",
+      "size": 3794509,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsSoaringStructures-1.21-2.1.2.jar",
+      "name": "MoogsSoaringStructures",
+      "sha256": "5392b23878488bf167669b9d9eb0ed3b129115155856ac28059e88d8ac9b0080",
+      "size": 3621647,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.1.2.jar",
+      "name": "Moog's Structure Lib",
+      "sha256": "5d1e212d11b3a2b2a881f8fdd9d58fe529a73c2e7f3266d73e4970492049a48d",
+      "size": 413682,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsTemplesReimagined-universal-1.21-2.0.2.jar",
+      "name": "MoogsTemplesReimagined",
+      "sha256": "f66fc01bfd846005b2437483004e6a0a837a2baea002fd6ea730b078b5930867",
+      "size": 1709731,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.1.jar",
+      "name": "MoogsVoyagerStructures",
+      "sha256": "6f887235a0d97e9eb3a63ef3bf3dada5ab4ad706d8f42c2df64cc556321b3e4a",
+      "size": 2244261,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "name": "Mutant Monsters",
+      "sha256": "1e20340a6642dcd6e43399292825f8cd84a079e0b917e36cf7341e787b626a4f",
+      "size": 1346730,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "name": "Noisium",
+      "sha256": "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9",
+      "size": 60512,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "name": "oωo",
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "size": 1221583,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/Placebo-1.21.1-9.9.2.jar",
+      "name": "Placebo",
+      "sha256": "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad",
+      "size": 324058,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "name": "Player Animator",
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+      "size": 203149,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
+      "name": "Pufferfish's Unofficial Additions",
+      "sha256": "2f7831975da0740fd29f9bee775ac9fe43d3650c9d0720e8c4f108241c4092d8",
+      "size": 52976,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
+      "name": "Pufferfish's Attributes",
+      "sha256": "b21c165e033360e112eb2c3426437e1ba4ebf70f971535b72b1b1891d04c87f0",
+      "size": 235542,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/puffish_skills-0.19.0-1.21-neoforge.jar",
+      "name": "Pufferfish's Skills",
+      "sha256": "6dcacba36cc157d7b9889764521564162e06636c65b4b189e67a68684636dfa6",
+      "size": 649853,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
+      "name": "Puzzles Lib",
+      "sha256": "535c853ca57316f73051be2a18a9b3c27e5456fc9c5db098192372744b261931",
+      "size": 1402525,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/RPG ST2.jar",
+      "name": "RPG Skill Trees2",
+      "sha256": "4c888be2ecc3ff7bf87358a1f77f3a538bcc9ae52659817d4d67376a3264d05b",
+      "size": 32089,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "name": "Sable",
+      "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab",
+      "size": 12986136,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "name": "Serene Seasons",
+      "sha256": "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d",
+      "size": 159205,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "name": "SimpleHats",
+      "sha256": "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864",
+      "size": 1400084,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/simplyswords-neoforge-1.70.2-1.21.1.jar",
+      "name": "Simply Swords",
+      "sha256": "5e75bd66ea489079d60c9c1ed98762550fbc0bee88cd7af399f17bbeb56608c3",
+      "size": 16282660,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/SimplyTooltips-neoforge-0.1.5.jar",
+      "name": "Simply Tooltips",
+      "sha256": "fdac367da1c5243ac5225f00f831b786817452ee9fa6a7f4acd99ec819b0f2b7",
+      "size": 5512986,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+      "name": "Sophisticated Backpacks",
+      "sha256": "ece652898740ae68ce3c0d5f29606e0616f08360bfd429e380a137091909929d",
+      "size": 1172245,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.90.2299.jar",
+      "name": "Sophisticated Core",
+      "sha256": "5d7e31c4082a7783cdd11846a043cced4d58350ac7f7537ad13c1f2215002630",
+      "size": 1687195,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/spell_engine-neoforge-1.10.5+1.21.1.jar",
+      "name": "Spell Engine",
+      "sha256": "08a2b0c5cdf3cdf723e71dbe113e7055aeb491c6e6a77bcce7982a67ce9d84b5",
+      "size": 4595567,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/spell_power-neoforge-1.6.0+1.21.1.jar",
+      "name": "Spell Power Attribute",
+      "sha256": "a57cd041be1bee86640861588ad9b4a3a032d2dedff8d44abf5305136e2f5854",
+      "size": 222955,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "name": "TerraBlender",
+      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "size": 120364,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/toms_storage-1.21-2.4.2.jar",
+      "name": "Tom's Simple Storage Mod",
+      "sha256": "a703e28391b914298223a515238c8729007606f2f967a83b65b8d5cb39e0789d",
+      "size": 856803,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "name": "The Twilight Forest",
+      "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
+      "size": 27154121,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/upgraded-iron-chests-1.4.jar",
+      "name": "Upgrade Iron Chest",
+      "sha256": "112e47624e467c5e4ae00ac5d8eebe9800d6e7b5cd80914b3a90fac51d69b281",
+      "size": 345951,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.22.jar",
+      "name": "Simple Voice Chat / Simple Voice Chat API",
+      "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac",
+      "size": 4918442,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "name": "YUNG's API",
+      "sha256": "bacd2385965bcfa4adcc0841656110b8e21ee024407a5ee706d30929f7c240cc",
+      "size": 389834,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "name": "YUNG's Better Caves",
+      "sha256": "299cde08b3a87818b7d25ea00c63ff8e6deb2f21b179d6f63ad86b9ba004a5a3",
+      "size": 400316,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "name": "YUNG's Better Desert Temples",
+      "sha256": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+      "size": 905839,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "name": "YUNG's Better Dungeons",
+      "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
+      "size": 782160,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "name": "YUNG's Better End Island",
+      "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+      "size": 398130,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "name": "YUNG's Better Jungle Temples",
+      "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+      "size": 795839,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "name": "YUNG's Better Mineshafts",
+      "sha256": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
+      "size": 493967,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "name": "YUNG's Better Nether Fortresses",
+      "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+      "size": 609639,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "name": "YUNG's Better Ocean Monuments",
+      "sha256": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+      "size": 1025571,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "name": "YUNG's Better Strongholds",
+      "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
+      "size": 461244,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "name": "YUNG's Better Witch Huts",
+      "sha256": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
+      "size": 174789,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "name": "YUNG's Bridges",
+      "sha256": "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
+      "size": 136820,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "name": "YUNG's Cave Biomes",
+      "sha256": "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20",
+      "size": 13006621,
+      "source": {
+        "type": "bundle"
+      }
+    },
+    {
+      "path": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "name": "YUNG's Extras",
+      "sha256": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
+      "size": 198183,
+      "source": {
+        "type": "bundle"
+      }
+    }
+  ]
+}
